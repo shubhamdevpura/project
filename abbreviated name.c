@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<math.h>
 int main()
 {
     char fname[20], mname[20], lname[20];
