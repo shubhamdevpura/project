@@ -3,7 +3,7 @@ int main()
 {
     char fname[20], mname[20], lname[20];
 
-     printf("Enter full name " );
+     printf("Enter Name: " );
      scanf("%s %s %s", fname, mname, lname);
      
      printf("Abbreviated name:" );
